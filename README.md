@@ -38,6 +38,7 @@ To create a simple java project using maven, you need to open command prompt and
  By copying the generated war file onto /var/lib/tomcat8/webapp and restart the tomcat8 service
  
 For adding feature copy below lines and update index.html on line 33 
+input 
 
 <form action="http://www.html.am/html-codes/textboxes/submitted.cfm">
 <textarea name="myTextBox" cols="50" rows="5" style="background-color:#FCF5D8;color:#AD8C08;">
